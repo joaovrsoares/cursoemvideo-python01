@@ -9,5 +9,8 @@ Baseado em https://www.youtube.com/watch?v=nIHq1MtJaKs
 Outro projeto básico básico com variável via input() e print().<br>
 Baseado em https://www.youtube.com/watch?v=FNqdV5Zb_5Q
 ### Exercício 003: "Somando dois números"
-Somando dois números. Easy peasy.
+Somando dois números. Easy peasy.<br>
 Baseado em https://www.youtube.com/watch?v=PB254Cfjlyk
+### Exercício 004: "Dissecando uma variável"
+Testando modificadores de variáveis.<br>
+Baseado em https://www.youtube.com/watch?v=tHYxjJxtJko
