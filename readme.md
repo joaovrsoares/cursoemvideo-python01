@@ -8,3 +8,6 @@ Baseado em https://www.youtube.com/watch?v=nIHq1MtJaKs
 ### Exercício 002: "Respondendo ao usuário"
 Outro projeto básico básico com variável via input() e print().<br>
 Baseado em https://www.youtube.com/watch?v=FNqdV5Zb_5Q
+### Exercício 003: "Somando dois números"
+Somando dois números. Easy peasy.
+Baseado em https://www.youtube.com/watch?v=PB254Cfjlyk
