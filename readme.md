@@ -14,3 +14,6 @@ Baseado em https://www.youtube.com/watch?v=PB254Cfjlyk
 ### Exercício 004: "Dissecando uma variável"
 Testando modificadores de variáveis.<br>
 Baseado em https://www.youtube.com/watch?v=tHYxjJxtJko
+### Exercício 005: "Antecessor e sucessor"
+Imprimir o antecessor e o sucessor do input.<br>
+Baseado em https://www.youtube.com/watch?v=664e0G_S9nU
