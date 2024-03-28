@@ -22,3 +22,6 @@ Baseado em https://www.youtube.com/watch?v=664e0G_S9nU
 ### Exercício 006: "Dobro, triplo, raiz quadrada"
 Entrada de um número e impressão do dobro, triplo e raiz quadrada (usando n**0.5).<br>
 Baseado em https://www.youtube.com/watch?v=mqcNw_dhl8I
+### Exercício 007: "Média aritmética"
+Média aritmética básica, calculando a partir de duas notas do aluno.<br>
+Baseado em https://www.youtube.com/watch?v=_QfISzy0IKs
