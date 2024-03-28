@@ -19,3 +19,6 @@ Baseado em https://www.youtube.com/watch?v=tHYxjJxtJko
 ### Exercício 005: "Antecessor e sucessor"
 Imprimir o antecessor e o sucessor do input.<br>
 Baseado em https://www.youtube.com/watch?v=664e0G_S9nU
+### Exercício 006: "Dobro, triplo, raiz quadrada"
+Entrada de um número e impressão do dobro, triplo e raiz quadrada (usando n**0.5).<br>
+Baseado em https://www.youtube.com/watch?v=mqcNw_dhl8I
