@@ -8,7 +8,7 @@ Hello world básico com variável msg e print(msg).<br>
 Projeto de demonstração do PyCharm.<br>
 Baseado em https://www.youtube.com/watch?v=nIHq1MtJaKs
 ### Exercício 002: "Respondendo ao usuário"
-Outro projeto básico básico com variável via input() e print().<br>
+Outro projeto básico com variável via input() e print().<br>
 Baseado em https://www.youtube.com/watch?v=FNqdV5Zb_5Q
 ### Exercício 003: "Somando dois números"
 Somando dois números. Easy peasy.<br>
@@ -25,3 +25,6 @@ Baseado em https://www.youtube.com/watch?v=mqcNw_dhl8I
 ### Exercício 007: "Média aritmética"
 Média aritmética básica, calculando a partir de duas notas do aluno.<br>
 Baseado em https://www.youtube.com/watch?v=_QfISzy0IKs
+### Exercício 008: "Conversor de medidas"
+Conversor básico de metro para seus múltiplos e submúltiplos.<br>
+Baseado em https://www.youtube.com/watch?v=KjcdG05EAZc
