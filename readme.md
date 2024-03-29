@@ -28,3 +28,6 @@ Baseado em https://www.youtube.com/watch?v=_QfISzy0IKs
 ### Exercício 008: "Conversor de medidas"
 Conversor básico de metro para seus múltiplos e submúltiplos.<br>
 Baseado em https://www.youtube.com/watch?v=KjcdG05EAZc
+### Exercício 009: "Tabuada"
+Tabuada simples (utilizei for pra economizar código).<br>
+Baseado em https://www.youtube.com/watch?v=qajq3SI0QQs
