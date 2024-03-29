@@ -31,3 +31,6 @@ Baseado em https://www.youtube.com/watch?v=KjcdG05EAZc
 ### Exercício 009: "Tabuada"
 Tabuada simples (utilizei for pra economizar código).<br>
 Baseado em https://www.youtube.com/watch?v=qajq3SI0QQs
+### Exercício 010: "Dólar para real"
+Simples conversor de moeda.<br>
+Baseado em https://www.youtube.com/watch?=xM4AX3Lp2mo
