@@ -34,3 +34,6 @@ Baseado em https://www.youtube.com/watch?v=qajq3SI0QQs
 ### Exercício 010: "Dólar para real"
 Simples conversor de moeda.<br>
 Baseado em https://www.youtube.com/watch?=xM4AX3Lp2mo
+### Exercício 011: "Pintando parede"
+Cálculo de área da parede, 2m² = 1l de tinta.<br>
+Baseado em https://www.youtube.com/watch?v=mzSJpn9ldt4
