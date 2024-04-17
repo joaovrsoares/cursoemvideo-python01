@@ -29,7 +29,7 @@ Baseado em https://www.youtube.com/watch?v=_QfISzy0IKs
 Conversor básico de metro para seus múltiplos e submúltiplos.<br>
 Baseado em https://www.youtube.com/watch?v=KjcdG05EAZc
 ### Exercício 009: "Tabuada"
-Tabuada simples (utilizei for pra economizar código).<br>
+Tabuada simples (utilizei for para economizar código).<br>
 Baseado em https://www.youtube.com/watch?v=qajq3SI0QQs
 ### Exercício 010: "Dólar para real"
 Simples conversor de moeda.<br>
@@ -37,3 +37,6 @@ Baseado em https://www.youtube.com/watch?=xM4AX3Lp2mo
 ### Exercício 011: "Pintando parede"
 Cálculo de área da parede, 2m² = 1l de tinta.<br>
 Baseado em https://www.youtube.com/watch?v=mzSJpn9ldt4
+### Exercício 012: "Calculando desconto"
+Desconto de 5% no valor de um produto.<br>
+Baseado em https://www.youtube.com/watch?v=4MAmKOT9FeU
