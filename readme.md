@@ -46,3 +46,6 @@ Baseado em https://www.youtube.com/watch?v=cTkivN8XcJ0
 ### Exercício 014: "Conversor de temperaturas"
 Conversão de °C para °F.<br>
 Baseado em https://www.youtube.com/watch?v=9l_Gay8BuAw
+### Exercício 015: "Aluguel de carros"
+Total do aluguel de um carro.<br>
+Baseado em https://www.youtube.com/watch?v=I4NYUeetLAc
