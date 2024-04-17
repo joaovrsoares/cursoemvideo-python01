@@ -40,3 +40,6 @@ Baseado em https://www.youtube.com/watch?v=mzSJpn9ldt4
 ### Exercício 012: "Calculando desconto"
 Desconto de 5% no valor de um produto.<br>
 Baseado em https://www.youtube.com/watch?v=4MAmKOT9FeU
+### Exercício 013: "Reajuste salarial"
+Aumento de 15% no salário do funcionário.<br>
+Baseado em https://www.youtube.com/watch?v=cTkivN8XcJ0
