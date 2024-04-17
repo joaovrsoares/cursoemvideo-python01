@@ -43,3 +43,6 @@ Baseado em https://www.youtube.com/watch?v=4MAmKOT9FeU
 ### Exercício 013: "Reajuste salarial"
 Aumento de 15% no salário do funcionário.<br>
 Baseado em https://www.youtube.com/watch?v=cTkivN8XcJ0
+### Exercício 014: "Conversor de temperaturas"
+Conversão de °C para °F.<br>
+Baseado em https://www.youtube.com/watch?v=9l_Gay8BuAw
