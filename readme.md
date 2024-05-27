@@ -55,3 +55,6 @@ Baseado em https://www.youtube.com/watch?v=-iSbDpl5Jhw
 ### Exercício 017: "Catetos e hipotenusa"
 Cálculo de hipotenusa de um triângulo-retângulo.<br>
 Baseado em https://www.youtube.com/watch?v=vmPW9iWsYkY
+### Exercício 018: "Seno, cosseno e tangente"
+Cálculo do seno, cosseno e tangente de um ângulo.<br>
+Baseado em https://www.youtube.com/watch?v=9GvsphwW26k
