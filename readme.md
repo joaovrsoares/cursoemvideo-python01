@@ -52,3 +52,6 @@ Baseado em https://www.youtube.com/watch?v=I4NYUeetLAc
 ### Exercício 016: "Quebrando um número"
 Porção inteira de um número decimal.<br>
 Baseado em https://www.youtube.com/watch?v=-iSbDpl5Jhw
+### Exercício 017: "Catetos e hipotenusa"
+Cálculo de hipotenusa de um triângulo-retângulo.<br>
+Baseado em https://www.youtube.com/watch?v=vmPW9iWsYkY
