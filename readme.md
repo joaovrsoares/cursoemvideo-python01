@@ -49,3 +49,6 @@ Baseado em https://www.youtube.com/watch?v=9l_Gay8BuAw
 ### Exercício 015: "Aluguel de carros"
 Total do aluguel de um carro.<br>
 Baseado em https://www.youtube.com/watch?v=I4NYUeetLAc
+### Exercício 016: "Quebrando um número"
+Porção inteira de um número decimal.<br>
+Baseado em https://www.youtube.com/watch?v=-iSbDpl5Jhw
